@@ -78,7 +78,4 @@ To securely attach these covers to the underlying device chassis, we also develo
 - Designed **custom mounting system** for seamless device integration.
 - Optimized design for **scaling to small-batch manufacturing**.
 
----
-
-## 📁 Repo Structure
 
